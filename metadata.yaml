@@ -1,10 +1,13 @@
 _repo: How-to-Teach-a-Foreign-Language_54943
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Bertelsen, Sophia Yhlen-Olsen
     gutenberg_agent_id: '48111'
     url: http://www.gutenberg.org/2009/agents/48111
+covers:
+- cover_type: archival
+  image_path: 54943-h/images/cover.jpg
 creator:
   author:
     agent_name: Jespersen, Otto
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47187
     wikipedia: https://en.wikipedia.org/wiki/Otto_Jespersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54943#How-to-Teach-a-Foreign-Language
 gutenberg_issued: '2017-06-20'
 gutenberg_type: Text
 identifiers:
