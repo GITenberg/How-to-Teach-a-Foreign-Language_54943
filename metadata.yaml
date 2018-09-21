@@ -1,0 +1,31 @@
+_repo: How-to-Teach-a-Foreign-Language_54943
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bertelsen, Sophia Yhlen-Olsen
+    gutenberg_agent_id: '48111'
+    url: http://www.gutenberg.org/2009/agents/48111
+creator:
+  author:
+    agent_name: Jespersen, Otto
+    alias: Espersen, Otto
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '47187'
+    url: http://www.gutenberg.org/2009/agents/47187
+    wikipedia: https://en.wikipedia.org/wiki/Otto_Jespersen
+description: ''
+gutenberg_issued: '2017-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Languages, Modern -- Study and teaching'
+- GITenberg
+title: How to Teach a Foreign Language
+url: http://www.gutenberg.org/ebooks/54943
